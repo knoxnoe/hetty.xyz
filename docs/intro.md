@@ -2,15 +2,13 @@
 slug: /
 ---
 
-import hero from "./assets/hero.png"
-
 # Introduction
 
 **Hetty** is an HTTP toolkit for security research. It aims to become an open
 source alternative to commercial software like Burp Suite Pro, with powerful
 features tailored to the needs of the infosec and bug bounty communities.
 
-<img src={hero} width="907" alt="Hetty proxy logs (screenshot)" />
+<img src="/img/hero.png" width="907" alt="Hetty proxy logs (screenshot)" />
 
 ## Features
 
