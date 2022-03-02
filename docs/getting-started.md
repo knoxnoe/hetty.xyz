@@ -19,7 +19,7 @@ The quickest way to install and update Hetty is via a package manager:
 <TabItem value="darwin" label="macOS">
 
 ```sh
-brew install hettysoft/hetty/hetty
+brew install hettysoft/tap/hetty
 ```
 
 </TabItem>
