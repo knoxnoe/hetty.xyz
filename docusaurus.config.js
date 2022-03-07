@@ -19,6 +19,21 @@ async function createConfig() {
     organizationName: "dstotijn",
     projectName: "hetty",
 
+    plugins: [
+      async function nullitics() {
+        return {
+          name: "nullitics",
+          injectHtmlTags() {
+            return {
+              postBodyTags: [
+                `<script async defer src="https://nullitics.com/script.js"></script>`,
+              ],
+            };
+          },
+        };
+      },
+    ],
+
     presets: [
       [
         "classic",
