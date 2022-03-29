@@ -23,7 +23,7 @@ const sidebars = {
         type: "generated-index",
       },
       collapsed: true,
-      items: ["guides/trust-root-ca"],
+      items: ["guides/intercept", "guides/trust-root-ca"],
     },
     {
       type: "category",
@@ -32,7 +32,7 @@ const sidebars = {
         type: "generated-index",
       },
       collapsed: true,
-      items: ["appendix/cli-options"],
+      items: ["appendix/filter-lang", "appendix/cli-options"],
     },
   ],
 };
