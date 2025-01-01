@@ -42,12 +42,10 @@ Guidelines](https://github.com/dstotijn/hetty/blob/main/CONTRIBUTING.md) for det
 
 ## Sponsors
 
-<a href="https://www.tines.com/?utm_source=oss&utm_medium=sponsorship&utm_campaign=hetty">
-  <img src="/img/tines-sponsorship-badge.png" width="140" alt="Sponsored by Tines"/>
-</a>
+💖 Are you enjoying Hetty? You can [sponsor me](https://github.com/sponsors/dstotijn)!
 
 ## License
 
 [MIT License](https://github.com/dstotijn/hetty/blob/main/LICENSE)
 
-<span>© {new Date().getFullYear()} Hetty Software</span>
+<span>© 2019–{new Date().getFullYear()} Hetty Software</span>
