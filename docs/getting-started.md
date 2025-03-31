@@ -101,8 +101,7 @@ To use Hetty's HTTP proxy, you have several options:
 - Run Hetty with `hetty --chrome` and use a preconfigured Chrome instance (recommended)
 - Use a browser extension like
   [FoxyProxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
-  (Firefox) or [Proxy
-  SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
+  (Firefox) or [Proxy SwitchyOmega 3 (ZeroOmega)](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped)
   (Chrome)
 - Configure system wide HTTP proxy settings (not recommended)
 
